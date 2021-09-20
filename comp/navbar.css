@@ -5,8 +5,7 @@
     .navbar-collapse
     {
         text-align: center !important;
-        background-color: #222333;
-        
+
     }
     .navbar-nav{
         transition: .3s all ease-in-out;
