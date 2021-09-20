@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'ali-light';
+    src: url('/fonts/AlibabaSans-Light.otf') format('opentype')
+}
+@font-face {
+    font-family: 'fzht';
+    src: url('/fonts/FangZhengHeiTiJianTi-1.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'elight';
+    src: url('/fonts/ExtraLight.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'light';
+    src: url('/fonts/Light.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'normal';
+    src: url('/fonts/Normal.ttf') format('truetype')
+}
+
+.good-font{
+    font-family: "PingFang SC","ali-light","fzht","normal",sans-serif;
+}
+
+.ali-light-font{
+    font-family: "ali-light",sans-serif;
+}
+
+.fzht-font{
+    font-family: "fzht",sans-serif;
+}
+
+.elight-font{
+    font-family: "elight",sans-serif;
+}
+
+.light-font{
+    font-family: "light",sans-serif;
+}
+
+.normal-font{
+    font-family: "normal",sans-serif;
+}
+
+.c-font{
+    font-weight: bold;
+}
+
+.big-font{
+    font-size: 45px;
+}
+
+.x-font{
+    font-size: 18px;
+}
+
+.purple{
+    color: #222333;
+}
+
+.font-template-1 h2{
+    font-size: 30px;
+}
+.font-template-1 .bold{
+    font-weight: bold;
+}
+
+.fa{
+    color: rgb(189, 214, 210);
+}
+
+.left .mg-10px{
+    margin-left: 10px;
+}

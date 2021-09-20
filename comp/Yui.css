@@ -1,0 +1,49 @@
+.left{
+    text-align: left;
+}
+.line-layout.left{
+    border-left: 2px solid rgb(51, 224, 201);
+    padding-left:20px;
+}
+.line-layout h2{
+    margin-bottom:5px;
+}
+
+.blockcontent1 h3{
+    font-size: 20px;
+}
+.blockcontent1 p{
+    font-size: 18px;
+}
+
+.img-br{
+    border-radius:8px;
+}
+
+.contact h2{
+    font-size: 30px;
+    color: #fff;
+}
+.contact p{
+    font-size: 18px;
+    color: #c5e3e7;
+}
+
+.info * .fa{
+    color: #fff;
+}
+
+.info a{
+    color: #fff;
+}
+
+.info{
+    margin-top:40px;
+}
+
+.contact{
+    padding-left: 10vw;
+    padding-right: 10vw;
+    white-space:nowrap;
+    border-bottom: 2px solid rgb(51, 224, 201);
+}
