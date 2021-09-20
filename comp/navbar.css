@@ -106,3 +106,10 @@
 .nav-link{
     cursor: pointer;
 }
+
+.con-navbar{
+    transition: background .3s ease-in-out;
+}
+.navbar-transparent{
+    background-color:#222333e0 !important;
+}
